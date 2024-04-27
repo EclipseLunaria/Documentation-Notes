@@ -14,13 +14,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is JSON-LD.md",
+                "file": "Requirements/Requirements Specifications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "086872df5663ad10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Requirements/Types of Requirements Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dc613dfb94088cc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20240417131610.png"
+              }
+            }
+          },
+          {
+            "id": "11684ebe8ca4df36",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20240417125226.png"
+              }
+            }
+          },
+          {
+            "id": "437897cb58b75206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RDFlib.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "91cd85b06e722671",
@@ -31,12 +76,8 @@
             "id": "21b4d231c67d0bf5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JSON LD Exploration/JSON LD Overview.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -105,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is JSON-LD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is JSON-LD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "What is JSON-LD.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,22 +203,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d30823f2dfffbe22",
+  "active": "21b4d231c67d0bf5",
   "lastOpenFiles": [
-    "RDF.md",
-    "What is JSON-LD.md",
     "JSON LD Exploration/JSON LD Overview.md",
-    "Types of Requirements Information.md",
+    "RDFlib.md",
+    "JSON-LD Libraries.md",
+    "What is JSON-LD.md",
+    "Images/Pasted image 20240417131610.png",
+    "Images/Pasted image 20240417125226.png",
+    "Requirements Attribute Types.md",
+    "Requirements/Types of Requirements Information.md",
+    "Requirements/Requirements Specifications.md",
+    "RDF.md",
     "JSON LD Exploration",
     "Web Dev/Setting Up a Typescript Project.md",
     "Web Dev/Installing React Requirements.md",
     "Web Dev",
     "Requirements/Requirements Engineering At A Glance.md",
-    "Pasted image 20240417131610.png",
-    "Pasted image 20240417125226.png",
     "Critical Requirments.md",
     "Requirements/Requirements Attributes.md",
-    "Requirements Specifications.md",
     "Documentation Documents/Concept of Operations.md",
     "Images/Pasted image 20240417091908.png",
     "Images/Pasted image 20240417092848.png",
@@ -189,7 +229,6 @@
     "Docs/iso-iec-ieee-29148.pdf",
     "Requirements/Stakeholder Intentions.md",
     "Requirements/Stakeholders.md",
-    "Requirements Attribute Types.md",
     "Docs/ISO 25010 - Quality Model.pdf",
     "Docs/ISO 25030.pdf",
     "IEEE; Requirements Engineering.md",
