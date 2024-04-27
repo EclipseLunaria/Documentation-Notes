@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON LD Exploration/JSON LD Overview.md",
+                "file": "What is JSON-LD.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,12 @@
             "id": "21b4d231c67d0bf5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JSON LD Exploration/JSON LD Overview.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSON LD Exploration/JSON LD Overview.md",
+                "file": "What is JSON-LD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSON LD Exploration/JSON LD Overview.md",
+                "file": "What is JSON-LD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSON LD Exploration/JSON LD Overview.md"
+                "file": "What is JSON-LD.md"
               }
             }
           }
@@ -164,8 +168,10 @@
   },
   "active": "d30823f2dfffbe22",
   "lastOpenFiles": [
-    "Types of Requirements Information.md",
+    "RDF.md",
+    "What is JSON-LD.md",
     "JSON LD Exploration/JSON LD Overview.md",
+    "Types of Requirements Information.md",
     "JSON LD Exploration",
     "Web Dev/Setting Up a Typescript Project.md",
     "Web Dev/Installing React Requirements.md",
