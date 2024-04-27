@@ -17,7 +17,7 @@ Identification is an attribute that has the following properties:
 The priority of each requirement **Should*** be identified. This should be through a consensus process among the different [[Stakeholders|stakeholders]]. Below are some potential scales that may be used to identify the priority of each requirement:
 - Number scale - 1-5, 1-10, etc.
 - Level scale - High, Medium, Low
-Priority does not imply that requirements are not necessary. It only help facilitate making decisions when making trade offs to choose the requirement that best fits the stakeholders needs.
+Priority does not imply that requirements are not necessary. It only help facilitate making decisions when making trade offs to choose the requirement that best fits the [[stakeholders]] needs.
 
 
 ### Dependency

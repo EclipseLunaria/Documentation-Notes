@@ -9,7 +9,7 @@ A well-formed requirement is a statement that:
 - Solves a [[Stakeholders]] problem or achieve a goal.
 - Is qualified by measurable conditions
 - Is bounded by [[Requirements Construct#Constraints|constraints]])
-- defines the systems performance when used by specific stakeholders or capability of the system
+- defines the systems performance when used by specific [[stakeholders]] or capability of the system
 These characteristics provide a means of distinguishing between requirements and their [[Requirements Attributes|attributes]] such as:
 - Conditions
 - Assumptions
