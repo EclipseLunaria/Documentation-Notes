@@ -6,21 +6,25 @@
       {
         "id": "c43ee7814b2aa9fc",
         "type": "tabs",
+        "dimension": 53.15013404825737,
         "children": [
           {
-            "id": "086872df5663ad10",
+            "id": "d30823f2dfffbe22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schema.org CreativeWork.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "91cd85b06e722671",
+        "type": "tabs",
+        "dimension": 46.84986595174262,
+        "children": [
           {
-            "id": "f0c5b5f24f5fd018",
+            "id": "21b4d231c67d0bf5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -77,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7ca1a967594f104",
@@ -93,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schema.org CreativeWork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schema.org CreativeWork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Schema.org CreativeWork.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,46 +155,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "086872df5663ad10",
+  "active": "d30823f2dfffbe22",
   "lastOpenFiles": [
-    "Schema.org Specification.md",
-    "RDFlib.md",
-    "JSON-LD Libraries.md",
-    "JSON LD Exploration/JSON LD Overview.md",
-    "What is JSON-LD.md",
+    "Docs/commentz-walter-search.pdf",
+    "Algorithms/Strings/Commentz-Walter algorithm.md",
+    "Pasted image 20240501135910.png",
+    "Algorithms/Strings",
+    "Algorithms",
+    "Schema.org Thing.md",
     "Schema.org CreativeWork.md",
-    "Schema.org Predicate Vocabulary.md",
+    "Schema.org Specification.md",
     "Exploring the schema.org Graph.md",
-    "Requirements/Requirements Specifications.md",
-    "Requirements/Types of Requirements Information.md",
-    "Requirements/Requirements Construct.md",
-    "Requirements/Stakeholders.md",
-    "Images/Pasted image 20240417125226.png",
+    "Schema.org Predicate Vocabulary.md",
+    "RDFlib.md",
     "Source Code/Python/RDFlib_examples/the_graph.py",
+    "JSON LD Exploration/JSON LD Overview.md",
+    "JSON-LD Libraries.md",
+    "What is JSON-LD.md",
+    "Types of Requirements Information.md",
     "Source Code/Python/RDFlib_examples",
-    "Source Code/Python/getting_started.py",
     "Source Code/Python",
     "Source Code",
-    "New folder",
     "Images/Pasted image 20240417131610.png",
-    "Requirements Attribute Types.md",
-    "RDF.md",
+    "Images/Pasted image 20240417125226.png",
+    "Requirements/Types of Requirements Information.md",
+    "Requirements/Requirements Specifications.md",
     "JSON LD Exploration",
     "Web Dev/Setting Up a Typescript Project.md",
     "Web Dev/Installing React Requirements.md",
     "Web Dev",
     "Requirements/Requirements Engineering At A Glance.md",
+    "Pasted image 20240417131610.png",
+    "Pasted image 20240417125226.png",
     "Critical Requirments.md",
     "Requirements/Requirements Attributes.md",
+    "Requirements Specifications.md",
     "Documentation Documents/Concept of Operations.md",
     "Images/Pasted image 20240417091908.png",
     "Images/Pasted image 20240417092848.png",
     "Images",
     "Docs/iso-iec-ieee-29148.pdf",
     "Requirements/Stakeholder Intentions.md",
+    "Requirements/Stakeholders.md",
+    "Requirements Attribute Types.md",
     "IEEE; Requirements Engineering.md",
-    "Welcome.md",
-    "!./Docs/iso-iec-ieee-29148.md",
-    "create a link.md"
+    "Requirements/Requirements Construct.md"
   ]
 }
